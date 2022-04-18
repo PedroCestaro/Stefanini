@@ -1,0 +1,12 @@
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\bin\Debug\net6.0\Stefanini.Infra.CrossCutting.deps.json
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\bin\Debug\net6.0\Stefanini.Infra.CrossCutting.dll
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\bin\Debug\net6.0\Stefanini.Infra.CrossCutting.pdb
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.AssemblyInfo.cs
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.dll
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\refint\Stefanini.Infra.CrossCutting.dll
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\Stefanini.Infra.CrossCutting.pdb
+C:\Projetos\Stefanini.Api\Stefanini.Infra.CrossCutting\obj\Debug\net6.0\ref\Stefanini.Infra.CrossCutting.dll

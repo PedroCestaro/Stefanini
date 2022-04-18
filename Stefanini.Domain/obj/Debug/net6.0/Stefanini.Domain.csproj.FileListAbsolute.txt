@@ -1,0 +1,12 @@
+C:\Projetos\Stefanini.Api\Stefanini.Domain\bin\Debug\net6.0\Stefanini.Domain.deps.json
+C:\Projetos\Stefanini.Api\Stefanini.Domain\bin\Debug\net6.0\Stefanini.Domain.dll
+C:\Projetos\Stefanini.Api\Stefanini.Domain\bin\Debug\net6.0\Stefanini.Domain.pdb
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.AssemblyInfo.cs
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.dll
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\refint\Stefanini.Domain.dll
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\Stefanini.Domain.pdb
+C:\Projetos\Stefanini.Api\Stefanini.Domain\obj\Debug\net6.0\ref\Stefanini.Domain.dll

@@ -1,0 +1,29 @@
+services:
+  sqldata:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Stefanini@123
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    ports:
+    - published: 5434
+      target: 1433
+  stefanini.api:
+    build:
+      context: C:\Projetos\Stefanini.Api
+      dockerfile: Stefanini.Api/Dockerfile
+    depends_on:
+      sqldata:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DBConnection: Data Source=DESKTOP-PTASNKQ;Initial Catalog=Stefanini;Integrated
+        Security=True
+    image: stefaniniapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\pedro\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\pedro\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

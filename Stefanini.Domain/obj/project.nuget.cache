@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vr9g6sZPkTySU2fKTfBjIjEU71KQejeHPrU2o2ha6jdbYiCrnExnkCOy8EsyW2dgnMNDlyijJ2/cJHXuktvcqw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Stefanini.Api\\Stefanini.Domain\\Stefanini.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+services:
+  stefanini.api:
+    build:
+      context: C:\Projetos\Stefanini.Api
+      dockerfile: Stefanini.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: stefaniniapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\pedro\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\pedro\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
